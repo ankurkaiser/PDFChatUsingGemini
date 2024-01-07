@@ -1,0 +1,17 @@
+langchain
+openai
+huggingface_hub
+unstructured
+tiktoken
+pinecone-client
+pandas
+numpy
+python-dotenv
+pypdf
+streamlit
+google-generativeai
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
